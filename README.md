@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jilly Li</h1>
-<h3 align="center">A full stack developer with a BS degree in Mathematics-Computer Science</h3>
+<h1 align="center">Hi 👋, I'm Jilly Li </h1>
+<h3 align="center">A full stack developer with a BS degree in Mathematics-Computer Science. Keep learning to make fun things with $#128187;.</h3>
 
 - 🌱 I’m currently learning **API**
 
