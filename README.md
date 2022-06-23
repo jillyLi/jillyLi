@@ -17,3 +17,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jillyli&show_icons=true&locale=en&layout=compact" alt="jillyli" /></p>
 
+<h3>👌Here are some of my projects overview clips! </h3>
+
+<h3> Tea_Paradise eCommerce Site: <br>
+https://user-images.githubusercontent.com/20647723/175432163-f6e39d28-ff6d-406d-aef7-8e2938e33928.mp4 </h3>
+
+
