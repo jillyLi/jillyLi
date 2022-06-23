@@ -21,7 +21,6 @@
 
 <h3> Tea_Paradise eCommerce Site: <br></h3>
 
-<video width="320" height="240" autoplay>
-  <source src="https://user-images.githubusercontent.com/20647723/175432163-f6e39d28-ff6d-406d-aef7-8e2938e33928.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/20647723/175432163-f6e39d28-ff6d-406d-aef7-8e2938e33928.mp4
+
 
