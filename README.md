@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jilly Li😊</h1>
 <h3 align="center"> 💕 A full stack developer with a BS degree in Mathematics-Computer Science💕. 😆💖Love to keep learning to make fun things with 💻.</h3>
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **API** & **job hunting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jillyLi](https://github.com/jillyLi)
 
