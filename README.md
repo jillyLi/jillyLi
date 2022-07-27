@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jilly Li😊</h1>
+<h1 align="center">Hi 👋, I'm Jilly😊</h1>
 <h3 align="center"> 💕 A full stack developer with a BS degree in Mathematics-Computer Science💕. 😆💖Love to keep learning to make fun things with 💻.</h3>
 
 - 🌱 I’m currently learning **ALGO & Data Structure** & **New Project!**
