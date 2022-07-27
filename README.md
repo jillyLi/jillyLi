@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jillyli799@gmail.com**
 
-- 💜 My other interests: SFX makeup, ceramic, travel and try new food!!!
+- 💜 My other interests: SFX makeup, ceramic, drawing, travel and try new food!!!
 <h3 align="left">💜Connect with me:</h3>
 
 <p align="left">
