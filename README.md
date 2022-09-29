@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jilly😊</h1>
 <h3 align="center"> 💕 A full stack developer with a BS degree in Mathematics-Computer Science💕. 😆💖Love to keep learning to make fun things with 💻.</h3>
 
-- 🌱 I’m currently learning **ALGO & Data Structure** & **New Project!**
+- 🌱 I’m currently learning **Three.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jillyLi](https://github.com/jillyLi)
 
 - 📫 How to reach me **jillyli799@gmail.com**
 
 - 💜 My other interests: SFX makeup, ceramic, drawing, travel and try new food!!!
+
+- Currently Reading: "Atomic Habits"
+
 <h3 align="left">💜Connect with me:</h3>
 
 <p align="left">
